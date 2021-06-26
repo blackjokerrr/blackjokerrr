@@ -6,13 +6,15 @@ WHAT'S UP!!! 👋
 > My name is Sirawit Yodjit 👨🏼‍🚀
 > I'm 21 year old 🏴󠁲󠁯󠁡󠁧󠁿
 > I like coffee so much ☕
-> Internship at Firmer co. ltd
 
 EDUCATION!!! 📚
 
 > Studying at King Mongkut's Institute of Technology Ladkrabang 🏫
 > Faculty is Information Technology (Software Engineering) 👨🏼‍💻
 
+EXPERIENCE 🔭
+
+> Developer internship at Firmer co. ltd 🏢
 ```
 
 
