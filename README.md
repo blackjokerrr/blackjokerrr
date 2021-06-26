@@ -1,9 +1,20 @@
-### WHAT'S UP!!! 👋 
-#### My name is Sirawit Yodjit 
+![SPIRAL GALAXY](assets/images/space.jpg "I LIKE THIS PICTURE SO MUCH! 🌀")
 
-### EDUCATION  ✨
-<li>KING MONGKUT'S INSTITUTE OF TECHNOLOGY
-LADKRABANG</li>
+
+```
+WHAT'S UP!!! 👋 
+
+> My name is Sirawit Yodjit 👨🏼‍🚀
+> I'm 21 year old 🏴󠁲󠁯󠁡󠁧󠁿
+> I like coffee so much ☕
+
+EDUCATION!!! 📚
+
+> Studying at King Mongkut's Institute of Technology Ladkrabang 🏫
+> Faculty is Information Technology (Software Engineering) 👨🏼‍💻
+
+```
+
 
 
 
