@@ -1,4 +1,11 @@
-### Hi there 👋
+### WHAT'S UP!!! 👋 
+#### My name is Sirawit Yodjit 
+
+### EDUCATION  ✨
+<li>KING MONGKUT'S INSTITUTE OF TECHNOLOGY
+LADKRABANG</li>
+
+
 
 <!--
 **blackjokerrr/blackjokerrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
