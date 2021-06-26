@@ -6,6 +6,7 @@ WHAT'S UP!!! 👋
 > My name is Sirawit Yodjit 👨🏼‍🚀
 > I'm 21 year old 🏴󠁲󠁯󠁡󠁧󠁿
 > I like coffee so much ☕
+> Internship at Firmer co. ltd
 
 EDUCATION!!! 📚
 
