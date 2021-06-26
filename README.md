@@ -14,7 +14,7 @@ EDUCATION!!! 📚
 
 EXPERIENCE 🔭
 
-> Developer internship at Firmer co. ltd 🏢
+> Developer internship at FIRMER CO., LTD 🏢
 ```
 
 
