@@ -11,10 +11,6 @@ EDUCATION!!! 📚
 
 > Studying at King Mongkut's Institute of Technology Ladkrabang 🏫
 > Faculty is Information Technology (Software Engineering) 👨🏼‍💻
-
-EXPERIENCE 🔭
-
-> Developer internship at FIRMER CO., LTD 🏢
 ```
 
 
