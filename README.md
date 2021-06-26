@@ -1,4 +1,4 @@
-[![SPIRAL GALAXY](assets/images/space.jpg "I LIKE THIS PICTURE SO MUCH! 🌀")](https://www.youtube.com/watch?v=byNrc_exIl8)
+<a href="https://www.youtube.com/watch?v=byNrc_exIl8" target="_blank">![SPIRAL GALAXY](assets/images/space.jpg "I LIKE THIS PICTURE SO MUCH! 🌀")</a>
 
 ```
 WHAT'S UP!!! 👋 
