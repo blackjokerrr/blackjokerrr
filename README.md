@@ -11,6 +11,4 @@
 
 
 <h3 align="left">Github Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackjokerrr&show_icons=true&locale=en&theme=react&hide_border=true" alt="blackjokerrr" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackjokerrr&theme=react&hide_border=true" alt="blackjokerrr" /></p>
